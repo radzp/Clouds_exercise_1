@@ -35,10 +35,6 @@ d. sprawdzenia, ile warstw posiada zbudowany obraz.
 <img width="1204" alt="Zrzut ekranu 2024-05-19 o 21 55 45" src="https://github.com/radzp/Clouds_exercise_1/assets/98003017/390dd237-f2e5-4d50-80f4-e917d1cdcc6c">
 
 
-### Zbudowany obraz w aplikacji Docker Desktop: 
-
-<img width="1440" alt="Zrzut ekranu 2024-05-19 o 21 09 27" src="https://github.com/radzp/Clouds_exercise_1/assets/98003017/88758a4f-7871-4a51-aeed-818f9686e67c">
-
 ### Mój kontener w aplikacji Docker Desktop: 
 
 <img width="1437" alt="Zrzut ekranu 2024-05-19 o 21 11 10" src="https://github.com/radzp/Clouds_exercise_1/assets/98003017/d1b9f6bb-0df7-4b22-addb-61468e763d79">
