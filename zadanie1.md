@@ -32,7 +32,8 @@ d. sprawdzenia, ile warstw posiada zbudowany obraz.
 
 ### Wygląd działania aplikacji na localhost:8000
 
-<img width="1433" alt="serwer_wyglad" src="https://github.com/radzp/Clouds_exercise_1/assets/98003017/7c4ef5d6-80b4-45b7-94cc-9439e8dc699c">
+<img width="1204" alt="Zrzut ekranu 2024-05-19 o 21 55 45" src="https://github.com/radzp/Clouds_exercise_1/assets/98003017/390dd237-f2e5-4d50-80f4-e917d1cdcc6c">
+
 
 ### Zbudowany obraz w aplikacji Docker Desktop: 
 
